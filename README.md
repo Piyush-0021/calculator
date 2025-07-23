@@ -1,20 +1,20 @@
 🔢 Simple Web Calculator
 
-Live Demo: calculator2105.netlify.app
+A sleek and responsive web-based calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-This is a responsive and user-friendly web-based calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
-
-
-✨ Features:
-Clean and intuitive UI
-Fully responsive layout for desktop and mobile
-Real-time calculation with input validation
-Keyboard input support (optional if added)
-Lightweight and fast — deployed on Netlify
+🧪 Live Demo: 👉 https://calculator2105.netlify.app
 
 
-💻 Technologies Used:
+💡 Features
+Clean and minimal design
+Supports real-time calculations
+Fully responsive across devices
+Built using only HTML, CSS, and JavaScript
+Lightweight and fast-loading
+
+
+🚀 Tech Stack
 HTML5
-CSS3 (with custom styling)
-Vanilla JavaScript
-Hosted on Netlify
+CSS3
+JavaScript (Vanilla)
+Deployed via Netlify
